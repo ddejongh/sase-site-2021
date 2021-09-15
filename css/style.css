@@ -725,3 +725,22 @@ media quires for mobile
 Custom CSS
 */
 
+.btn-group .connect-button {
+  background-color: #7dc242;
+  border: 1px white;
+  color: white;
+  padding: 10px 24px;
+  cursor: pointer;
+  display: block;
+  text-align: center;
+  margin-top: 25px;
+  width: 300px;
+}
+
+.btn-group button:hover {
+  background-color: #3b3b3b;
+}
+
+#frst-btn {
+  margin-top: 0px;
+}
