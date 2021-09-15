@@ -381,7 +381,7 @@ about section
 }
 
 .tab-content a:hover, .tab-content a:link {
-	color: #FF0;
+	color: #7dc242;
 	text-decoration: none;
 }
 
@@ -390,6 +390,8 @@ team section
 ========================================================================== */
 #team {
   text-align: center;
+  background: #3b3b3b;
+  color: #fff;
 }
 #team h3 {
   color: #7dc242;
@@ -716,3 +718,7 @@ media quires for mobile
   margin-top: 25px;
   margin-bottom: 25px;
 }
+
+/*
+Custom CSS
+*/
