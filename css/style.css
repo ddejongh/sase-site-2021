@@ -437,9 +437,11 @@ team section
 }
 #team .team-des:hover {
  opacity: 1;
+ border-radius: 50%;
 }
 #team img {
   margin: 0 auto;
+  border-radius: 50%;
 }
 
 #team .social-icon li a {
@@ -722,3 +724,4 @@ media quires for mobile
 /*
 Custom CSS
 */
+
